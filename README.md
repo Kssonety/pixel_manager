@@ -11,7 +11,7 @@ So far, we have **three** functions.
 
 Example Code:
 ```
-pixelmanager.MakeImgFromPixelRGB.createIMG(RGB_PIXEL_ARRAY, IMG_HEIGHT, IMG_WIDTH,  "name_of_saved_file.jpg", True)
+pixelmanager.MakeImgFromPixelRGB(RGB_PIXEL_ARRAY, IMG_HEIGHT, IMG_WIDTH,  "name_of_saved_file.jpg", True)
 ```
 ***getPixelsFromIMG***
 
